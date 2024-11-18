@@ -33,7 +33,7 @@ This project features an interactive Tableau dashboard that provides a comprehen
 3. Alternatively, visit the Tableau Public link to interact with the live dashboard.
 
 ## Preview
-![Dashboard Preview](image.png)
+![image](https://github.com/user-attachments/assets/c31f2df6-57e4-4856-980f-191b49d03618)
 
 ---
 
